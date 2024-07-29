@@ -1,6 +1,6 @@
 ## Olá eu sou a Igor Augusto Wolf, SRE, Analista de Infraestrutura, Infraestrutura como código!
 
-<div style="display: inline_block">Infraestrutura<br><br><br>
+<div style="display: inline_block"><br><br>Infraestrutura<br><br><br>
   
   <img align="center" alt="IGOR-BASH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash.svg">
   <img align="center" alt="IGOR-GIT" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
@@ -18,7 +18,7 @@
 
 </div>
 
-<div style="display: inline_block">Tecnologias Utilizadas<br><br><br>
+<div style="display: inline_block"><br><br>Tecnologias Utilizadas<br><br><br>
   
   <img align="center" alt="IGOR-BASH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash.svg">
   <img align="center" alt="IGOR-GIT" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
