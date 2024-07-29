@@ -14,15 +14,10 @@
   
   <img align="center" alt="IGOR-DEBIAN" height="30" width="40" src="https://www.svgrepo.com/show/349333/debian.svg">
   <img align="center" alt="IGOR-UBUNTU" height="30" width="40" src="https://www.svgrepo.com/show/452122/ubuntu.svg">
-  <img align="center" alt="IGOR-RHEL" height="30" width="40" src="">
+  <img align="center" alt="IGOR-RHEL" height="30" width="40" src="https://www.svgrepo.com/show/355193/redhat.svg">
+  <img align="center" alt="IGOR-MINT" height="30" width="40" src="https://www.svgrepo.com/show/452055/linux-mint.svg">
   <img align="center" alt="IGOR-UBUNTU" height="30" width="40" src="">
-  <img align="center" alt="IGOR-UBUNTU" height="30" width="40" src="">
-  
-  
-
 </div>
-
-https://www.svgrepo.com/show/349333/debian.svg
 
 <div style="display: inline_block"><br><br>Tecnologias Utilizadas<br><br><br>
   
