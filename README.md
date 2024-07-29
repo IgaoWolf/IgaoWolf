@@ -18,6 +18,7 @@
   <img align="center" alt="IGOR-MINT" height="30" width="40" src="https://www.svgrepo.com/show/452055/linux-mint.svg">
   <img align="center" alt="IGOR-CENTOS" height="30" width="40" src="https://www.svgrepo.com/show/349314/centos.svg">
   <img align="center" alt="IGOR-ORACLE-LINUX" height="30" width="40" src="https://www.svgrepo.com/show/448245/oracle.svg">
+  <img align="center" alt="IGOR-ORACLE-LINUX" height="30" width="40" src="https://www.svgrepo.com/show/355384/windows-legacy.svg">
 </div>
 
 <div style="display: inline_block"><br><br>Tecnologias Utilizadas<br><br><br>
