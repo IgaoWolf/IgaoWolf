@@ -1,4 +1,4 @@
-## Olá eu sou a Igor Augusto Wolf, SRE, Analista de Infraestrutura, Infraestrutura como código!
+## Olá eu sou a Igor Augusto Wolf,
 
 <div style="display: inline_block"><br><br>Infraestrutura<br><br><br>
   
