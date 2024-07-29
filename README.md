@@ -16,7 +16,7 @@
   <img align="center" alt="IGOR-OCI" height="30" width="40" src="https://www.svgrepo.com/show/354152/oracle.svg">
   <img align="center" alt="IGOR-GCP" height="30" width="40" src="https://www.svgrepo.com/show/448223/gcp.svg">
   <img align="center" alt="IGOR-AZURE" height="30" width="40" src="https://www.svgrepo.com/show/353467/azure-icon.svg">
-  <img align="center" alt="IGOR-CLOUDFLARE" height="30" width="40" src=" https://www.svgrepo.com/show/353564/cloudflare.svg">
+  <img align="center" alt="IGOR-CLOUDFLARE" height="30" width="40" src="https://www.svgrepo.com/show/353564/cloudflare.svg">
 </div>
 <div style="display: inline_block"><br><br>Monitoramento e Observabilidade<br><br>
   <img align="center" alt="IGOR-ELASTIC" height="30" width="40" src="https://www.svgrepo.com/show/353688/elasticsearch.svg">
@@ -24,7 +24,6 @@
   <img align="center" alt="IGOR-GRAFANA" height="30" width="40" src="https://www.svgrepo.com/show/448228/grafana.svg">
   <img align="center" alt="IGOR-CACHET" height="30" width="40" src="https://www.svgrepo.com/show/353529/cachet.svg">
   <img align="center" alt="IGOR-PROMETHEUS" height="30" width="40" src="https://www.svgrepo.com/show/354219/prometheus.svg">
-  <img align="center" alt="IGOR-GRAYLOG" height="30" width="40" src="https://www.svgrepo.com/show/353835/graylog.svg">
   <img align="center" alt="IGOR-KIBANA" height="30" width="40" src="https://www.svgrepo.com/show/353961/kibana.svg">
   <img align="center" alt="IGOR-LOGSTASH" height="30" width="40" src="https://www.svgrepo.com/show/354010/logstash.svg">
 </div>
