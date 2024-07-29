@@ -5,10 +5,21 @@
   <img align="center" alt="IGOR-KUBE" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg">
   <img align="center" alt="IGOR-ANSIBLE" height="30" width="40" src="https://www.svgrepo.com/show/305708/ansible.svg">
   <img align="center" alt="IGOR-PUPPET" height="30" width="40" src="https://www.svgrepo.com/show/354226/puppet.svg">
+  <img align="center" alt="IGOR-ELASTIC" height="30" width="40" src="https://www.svgrepo.com/show/448221/docker.svg">
+</div>
+<div style="display: inline_block"><br><br>Virtualização<br><br><br>
+  <img align="center" alt="IGOR-CLOUDSTACK" height="30" width="40" src="https://www.svgrepo.com/show/353402/apache-cloudstack.svg">
+  <img align="center" alt="IGOR-VMWARE" height="30" width="40" src="https://www.svgrepo.com/show/473827/vmware.svg">
+  <img align="center" alt="IGOR-GCP" height="30" width="40" src="https://www.svgrepo.com/show/448223/gcp.svg">
+  <img align="center" alt="IGOR-AWS" height="30" width="40" src="https://www.svgrepo.com/show/376356/aws.svg">
+  <img align="center" alt="IGOR-OCI" height="30" width="40" src="https://www.svgrepo.com/show/354152/oracle.svg">
+</div>
+<div style="display: inline_block"><br><br>Monitoramento e Observabilidade<br><br><br>
   <img align="center" alt="IGOR-ELASTIC" height="30" width="40" src="https://www.svgrepo.com/show/349350/elastic.svg">
   <img align="center" alt="IGOR-ELASTIC" height="30" width="40" src="https://www.svgrepo.com/show/448219/datadog.svg">
-  <img align="center" alt="IGOR-ELASTIC" height="30" width="40" src="https://www.svgrepo.com/show/448221/docker.svg">
-  </div>
+  <img align="center" alt="IGOR-ELASTIC" height="30" width="40" src="https://www.svgrepo.com/show/448228/grafana.svg">
+  <img align="center" alt="IGOR-CACHET" height="30" width="40" src="https://www.svgrepo.com/show/353529/cachet.svg">
+</div>
 <div style="display: inline_block"><br><br>Sistemas Operacionais<br><br><br>
   <img align="center" alt="IGOR-DEBIAN" height="30" width="40" src="https://www.svgrepo.com/show/349333/debian.svg">
   <img align="center" alt="IGOR-UBUNTU" height="30" width="40" src="https://www.svgrepo.com/show/452122/ubuntu.svg">
@@ -19,6 +30,7 @@
   <img align="center" alt="IGOR-ORACLE-LINUX" height="30" width="40" src="https://www.svgrepo.com/show/355384/windows-legacy.svg">
 </div>
 <div style="display: inline_block"><br><br>Tecnologias Utilizadas<br><br><br>
+  <img align="center" alt="IGOR-Js" height="30" width="40" src="https://www.svgrepo.com/show/508897/bash02.svg">
   <img align="center" alt="IGOR-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="IGOR-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="IGOR-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
