@@ -16,7 +16,7 @@
   <img align="center" alt="IGOR-UBUNTU" height="30" width="40" src="https://www.svgrepo.com/show/452122/ubuntu.svg">
   <img align="center" alt="IGOR-RHEL" height="30" width="40" src="https://www.svgrepo.com/show/355193/redhat.svg">
   <img align="center" alt="IGOR-MINT" height="30" width="40" src="https://www.svgrepo.com/show/452055/linux-mint.svg">
-  <img align="center" alt="IGOR-UBUNTU" height="30" width="40" src="">
+  <img align="center" alt="IGOR-CENTOS" height="30" width="40" src="https://www.svgrepo.com/show/349314/centos.svg">
 </div>
 
 <div style="display: inline_block"><br><br>Tecnologias Utilizadas<br><br><br>
