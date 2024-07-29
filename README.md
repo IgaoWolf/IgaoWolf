@@ -1,5 +1,5 @@
 ## Olá eu sou a Igor Augusto Wolf,
-
+Com uma paixão incansável pelo que faço e inspirado pelo "Brio"
 <div style="display: inline_block"><br><br>Infraestrutura - IaC <br><br>
   <img align="center" alt="IGOR-ANSIBLE" height="30" width="40" src="https://www.svgrepo.com/show/305708/ansible.svg">
   <img align="center" alt="IGOR-PUPPET" height="30" width="40" src="https://www.svgrepo.com/show/354226/puppet.svg">
