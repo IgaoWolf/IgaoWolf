@@ -46,22 +46,22 @@ Com uma paixão incansável pelo que faço e inspirado pelo "Brio"
 <div style="display: inline_block"><br><br>Desenvolvimento e Tecnologia<br><br><br>
   <img align="center" alt="IGOR-BASH" height="30" width="40" src="https://www.svgrepo.com/show/508897/bash02.svg">
   <img align="center" alt="IGOR-APACHE" height="30" width="40" src="https://www.svgrepo.com/show/353400/apache.svg">
+  <img align="center" alt="IGOR-NGINX" height="30" width="40" src="https://www.svgrepo.com/show/354115/nginx.svg">
   <img align="center" alt="IGOR-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="IGOR-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="IGOR-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="IGOR-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="IGOR-PHP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-  <img align="center" alt="IGOR-tailwindcss" height="30" width="40" src="https://www.svgrepo.com/show/353531/cakephp-icon.svg">
+  <img align="center" alt="IGOR-CAKEPHP" height="30" width="40" src="https://www.svgrepo.com/show/353531/cakephp-icon.svg">
   <img align="center" alt="IGOR-PHP" height="30" width="40" src="https://www.svgrepo.com/show/353423/arduino.svg">
   <img align="center" alt="IGOR-tailwindcss" height="30" width="40" src="https://www.svgrepo.com/show/354430/tailwindcss.svg">
   <img align="center" alt="IGOR-cpanel" height="30" width="40" src="https://www.svgrepo.com/show/353612/cpanel.svg">
   <img align="center" alt="IGOR-confluence" height="30" width="40" src="https://www.svgrepo.com/show/353597/confluence.svg">
-  <img align="center" alt="IGOR-confluence" height="30" width="40" src="https://www.svgrepo.com/show/353733/figma.svg">
-  <img align="center" alt="IGOR-confluence" height="30" width="40" src="https://www.svgrepo.com/show/353780/github-icon.svg">
-  <img align="center" alt="IGOR-confluence" height="30" width="40" src="https://www.svgrepo.com/show/353785/gitlab.svg">
-  <img align="center" alt="IGOR-confluence" height="30" width="40" src="https://www.svgrepo.com/show/353940/jquery.svg">
+  <img align="center" alt="IGOR-FIGMA" height="30" width="40" src="https://www.svgrepo.com/show/353733/figma.svg">
+  <img align="center" alt="IGOR-GITHUB" height="30" width="40" src="https://www.svgrepo.com/show/353780/github-icon.svg">
+  <img align="center" alt="IGOR-GITLAB" height="30" width="40" src="https://www.svgrepo.com/show/353785/gitlab.svg">
+  <img align="center" alt="IGOR-JQUERY" height="30" width="40" src="https://www.svgrepo.com/show/353940/jquery.svg">
   <img align="center" alt="IGOR-NODE" height="30" width="40" src="https://www.svgrepo.com/show/354118/nodejs.svg">
-  <img align="center" alt="IGOR-NGINX" height="30" width="40" src="https://www.svgrepo.com/show/354115/nginx.svg">
   <img align="center" alt="IGOR-POSTMAN" height="30" width="40" src="https://www.svgrepo.com/show/354201/postman.svg">
   <img align="center" alt="IGOR-RABBIT" height="30" width="40" src="https://www.svgrepo.com/show/354248/rabbitmq.svg">
   <img align="center" alt="IGOR-SWIFT" height="30" width="40" src="https://www.svgrepo.com/show/376351/swift.svg">
