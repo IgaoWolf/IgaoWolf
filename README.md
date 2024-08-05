@@ -20,7 +20,6 @@ Com uma paixão incansável pelo que faço e inspirado pelo "Brio"
   <img align="center" alt="IGOR-ELASTIC" height="30" width="40" src="https://www.svgrepo.com/show/353688/elasticsearch.svg">
   <img align="center" alt="IGOR-DDG" height="30" width="40" src="https://www.svgrepo.com/show/448219/datadog.svg">
   <img align="center" alt="IGOR-GRAFANA" height="30" width="40" src="https://www.svgrepo.com/show/448228/grafana.svg">
-  <img align="center" alt="IGOR-CACHET" height="30" width="40" src="https://www.svgrepo.com/show/353529/cachet.svg">
   <img align="center" alt="IGOR-PROMETHEUS" height="30" width="40" src="https://www.svgrepo.com/show/354219/prometheus.svg">
 </div>
 <div style="display: inline_block"><br><br>Sistemas Operacionais<br><br>
