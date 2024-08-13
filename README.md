@@ -35,8 +35,6 @@ Com uma paixão incansável pelo que faço e inspirado pelo "Brio"
 <div style="display: inline_block"><br><br>Databases<br><br>
   <img align="center" alt="IGOR-MARIADB" height="30" width="40" src="https://www.svgrepo.com/show/354037/mariadb-icon.svg">
   <img align="center" alt="IGOR-Mysql" height="30" width="40" src="https://www.svgrepo.com/show/354099/mysql.svg">
-  <img align="center" alt="IGOR-POSTGRES" height="30" width="40" src="https://www.svgrepo.com/show/354200/postgresql.svg">
-  <img align="center" alt="IGOR-SQLITE" height="30" width="40" src="https://www.svgrepo.com/show/354381/sqlite.svg">
 </div>
 <div style="display: inline_block"><br><br>Desenvolvimento e Tecnologia<br><br><br>
   <img align="center" alt="IGOR-BASH" height="30" width="40" src="https://www.svgrepo.com/show/508897/bash02.svg">
