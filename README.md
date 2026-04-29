@@ -155,10 +155,6 @@ Panorama <strong>2026</strong> (mercado e prática): Python, JavaScript, TypeScr
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <sub><strong>2026</strong> — cards de <strong>estatísticas</strong> e <strong>linguagens</strong> gerados com <code>STATS_PAT</code> para incluir repositórios <strong>públicos e privados</strong>. <strong>Commits</strong> no primeiro card: só <strong>2026</strong>. <strong>Linguagens</strong>: proporção no conjunto dos repos acessíveis (sem filtro por ano). <strong>Streak</strong> e <a href="https://github.com/IgaoWolf">calendário</a> a partir de 2026; para contar atividade em repos privados, ative <em>Contribuições privadas</em> no teu perfil do GitHub.</sub>
-</p>
-
 <div align="center">
 
 ![GitHub Stats](./profile/stats.svg)
