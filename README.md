@@ -16,7 +16,6 @@
 
 - 🔭 **CTO** na [iatech.io](https://iatech.io) — construindo o futuro com tecnologia e Inteligência Artificial
 - 🏗️ Especialista em **Infraestrutura, Cloud, DevOps e Arquitetura de Sistemas**
-- 🚀 Criador de **8 produtos digitais** que impactam negócios e pessoas
 - 🧠 Movido pelo **"Brio"** — paixão incansável pelo que faço
 - 🌎 Brasil · [igor@iatech.io](mailto:igor@iatech.io)
 
