@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=220&section=header&text=Igor%20Augusto%20Wolf&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CTO%20%40%20iatech.io%20%7C%20Arquiteto%20de%20Infraestrutura%20%26%20Cloud&descSize=18&descAlignY=58&descAlign=50" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=220&section=header&text=Igor%20Augusto%20Wolf&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CTO%20%40%20iatech.io%20%7C%20Arquiteto%20de%20Infraestrutura%20%26%20Cloud&descSize=18&descAlignY=58&descAlign=50)
 
 <div align="center">
 
@@ -92,7 +92,7 @@ Recrutamento potencializado por IA — triagem, matching e seleção automatizad
 
 <div align="center">
 
-### ☁️ Infraestrutura & IaC
+### ☁️ Infraestrutura e IaC
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -100,14 +100,14 @@ Recrutamento potencializado por IA — triagem, matching e seleção automatizad
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### ☁️ Cloud & Virtualização
+### ☁️ Cloud e Virtualização
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![CloudStack](https://img.shields.io/badge/CloudStack-2AA198?style=for-the-badge&logo=apache&logoColor=white)
 
-### 📊 Monitoramento & Observabilidade
+### 📊 Monitoramento e Observabilidade
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
@@ -132,7 +132,7 @@ Recrutamento potencializado por IA — triagem, matching e seleção automatizad
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🗄️ Bancos de Dados & Mensageria
+### 🗄️ Bancos de Dados e Mensageria
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
@@ -150,12 +150,12 @@ Recrutamento potencializado por IA — triagem, matching e seleção automatizad
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgaoWolf&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true&bg_color=1a1b27" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgaoWolf&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=1a1b27" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgaoWolf&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true&bg_color=1a1b27)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgaoWolf&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=1a1b27)
 
 <br/>
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=IgaoWolf&theme=tokyonight&hide_border=true&locale=pt_BR&background=1a1b27" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=IgaoWolf&theme=tokyonight&hide_border=true&locale=pt_BR&background=1a1b27)
 
 </div>
 
@@ -197,4 +197,4 @@ Recrutamento potencializado por IA — triagem, matching e seleção automatizad
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,50:70a5fd,100:1a1b27&height=120&section=footer" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,50:70a5fd,100:1a1b27&height=120&section=footer)
