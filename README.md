@@ -155,7 +155,7 @@ Recrutamento potencializado por IA — triagem, matching e seleção automatizad
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=IgaoWolf&theme=tokyonight&hide_border=true&locale=pt_BR&background=1a1b27)
+![GitHub Streak](https://streak-stats.demolab.com/?user=IgaoWolf&theme=tokyonight&hide_border=true&locale=pt_BR&background=1a1b27&starting_year=2026)
 
 </div>
 
