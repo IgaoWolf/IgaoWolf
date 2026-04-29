@@ -123,12 +123,19 @@ Recrutamento potencializado por IA — triagem, matching e seleção automatizad
 ![CloudLinux](https://img.shields.io/badge/CloudLinux-006400?style=for-the-badge&logo=linux&logoColor=white)
 
 ### 💻 Desenvolvimento
+Panorama <strong>2026</strong> (mercado e prática): Python, JavaScript, TypeScript e <strong>Java</strong>/<strong>C#</strong> em aplicações amplas; <strong>Go</strong> e <strong>Rust</strong> em cloud e performance; <strong>Kotlin</strong> e <strong>Swift</strong> em mobile; abaixo a stack que uso nesse contexto.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
@@ -148,6 +155,10 @@ Recrutamento potencializado por IA — triagem, matching e seleção automatizad
 
 ## 📈 GitHub Stats
 
+<p align="center">
+  <sub><strong>2026</strong> — cards de <strong>estatísticas</strong> e <strong>linguagens</strong> gerados com <code>STATS_PAT</code> para incluir repositórios <strong>públicos e privados</strong>. <strong>Commits</strong> no primeiro card: só <strong>2026</strong>. <strong>Linguagens</strong>: proporção no conjunto dos repos acessíveis (sem filtro por ano). <strong>Streak</strong> e <a href="https://github.com/IgaoWolf">calendário</a> a partir de 2026; para contar atividade em repos privados, ative <em>Contribuições privadas</em> no teu perfil do GitHub.</sub>
+</p>
+
 <div align="center">
 
 ![GitHub Stats](./profile/stats.svg)
@@ -155,7 +166,7 @@ Recrutamento potencializado por IA — triagem, matching e seleção automatizad
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=IgaoWolf&theme=tokyonight&hide_border=true&locale=pt_BR&background=1a1b27&starting_year=2026)
+![GitHub Streak](./profile/streak.svg)
 
 </div>
 

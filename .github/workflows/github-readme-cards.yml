@@ -47,7 +47,7 @@ jobs:
         with:
           card: stats
           options: >-
-            username=IgaoWolf&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true&include_all_commits=false&commits_year=2026&bg_color=1a1b27
+            username=IgaoWolf&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true&include_all_commits=false&commits_year=2026&bg_color=1a1b27&custom_title=GitHub%20%C2%B7%202026%20%28p%C3%BAblico%20%2B%20privado%29
           path: profile/stats.svg
           token: ${{ secrets.STATS_PAT }}
 
@@ -55,10 +55,15 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
+          # count_private + PAT: linguagens de todos os repositórios acessíveis; a API não filtra por ano
           options: >-
-            username=IgaoWolf&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true&bg_color=1a1b27
+            username=IgaoWolf&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true&bg_color=1a1b27&custom_title=Linguagens%20%C2%B7%20p%C3%BAblico%20%2B%20privado&langs_count=10
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_PAT }}
+
+      - name: Baixar card de streak (contribuições a partir de 2026)
+        run: |
+          curl -fsSL "https://streak-stats.demolab.com/?user=IgaoWolf&theme=tokyonight&hide_border=true&locale=pt_BR&background=1a1b27&starting_year=2026" -o profile/streak.svg
 
       - name: Baixar gráfico de atividade
         env:
@@ -76,7 +81,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile/stats.svg profile/top-langs.svg profile/activity.svg
+          git add profile/stats.svg profile/top-langs.svg profile/streak.svg profile/activity.svg
           if git diff --staged --quiet; then
             echo "Nenhuma alteração nos SVGs"
             exit 0
