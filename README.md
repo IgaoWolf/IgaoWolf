@@ -151,21 +151,6 @@ Recrutamento potencializado por IA — triagem, matching e seleção automatizad
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](./profile/stats.svg)
-![Top Langs](./profile/top-langs.svg)
-
-<br/>
-
-![GitHub Streak](./profile/streak.svg)
-
-</div>
-
----
-
 ## 📊 Atividade Recente — 2026
 
 <div align="center">
