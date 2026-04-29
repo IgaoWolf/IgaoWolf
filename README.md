@@ -161,11 +161,11 @@ Recrutamento potencializado por IA — triagem, matching e seleção automatizad
 
 ---
 
-## 📊 Atividade Recente
+## 📊 Atividade Recente — 2026
 
 <div align="center">
 
-[![Atividade no GitHub](./profile/activity.svg)](https://github.com/IgaoWolf)
+[![Atividade 2026 — contribuições no GitHub](./profile/activity.svg)](https://github.com/IgaoWolf)
 
 </div>
 

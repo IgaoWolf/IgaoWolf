@@ -68,7 +68,7 @@ jobs:
             echo "Usando ACTIVITY_GRAPH_URL (ex.: Vercel próprio com TOKEN e escopo repo para repos privados)"
             curl -fsSL "$ACTIVITY_GRAPH_URL" -o profile/activity.svg
           else
-            curl -fsSL "https://github-readme-activity-graph.vercel.app/graph?username=IgaoWolf&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&from=2026-01-01&to=2026-12-31" -o profile/activity.svg
+            curl -fsSL "https://github-readme-activity-graph.vercel.app/graph?username=IgaoWolf&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&from=2026-01-01&to=2026-12-31&custom_title=Atividade%202026" -o profile/activity.svg
           fi
 
       - name: Commit e push
