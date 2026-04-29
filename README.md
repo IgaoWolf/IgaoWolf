@@ -123,8 +123,6 @@ Recrutamento potencializado por IA — triagem, matching e seleção automatizad
 ![CloudLinux](https://img.shields.io/badge/CloudLinux-006400?style=for-the-badge&logo=linux&logoColor=white)
 
 ### 💻 Desenvolvimento
-Panorama <strong>2026</strong> (mercado e prática): Python, JavaScript, TypeScript e <strong>Java</strong>/<strong>C#</strong> em aplicações amplas; <strong>Go</strong> e <strong>Rust</strong> em cloud e performance; <strong>Kotlin</strong> e <strong>Swift</strong> em mobile; abaixo a stack que uso nesse contexto.
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
