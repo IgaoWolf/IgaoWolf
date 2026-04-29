@@ -151,7 +151,7 @@ Recrutamento potencializado por IA — triagem, matching e seleção automatizad
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgaoWolf&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true&bg_color=1a1b27)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgaoWolf&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=1a1b27)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgaoWolf&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=1a1b27&count_private=true)
 
 <br/>
 
