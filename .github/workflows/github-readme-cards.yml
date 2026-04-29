@@ -15,6 +15,7 @@ on:
     branches: [main, master]
     paths:
       - ".github/workflows/**"
+      - "README.md"
 
 concurrency:
   group: profile-cards

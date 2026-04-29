@@ -2,8 +2,14 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Dois ciclos por dia (UTC); complementa a execução após os cards
+    - cron: "0 0,12 * * *"
   workflow_dispatch:
+  # Regera a snake em seguida à atualização dos cards SVG no main
+  workflow_run:
+    workflows: ["Atualizar cards e atividade do perfil"]
+    types: [completed]
+    branches: [main, master]
 
 jobs:
   build:
