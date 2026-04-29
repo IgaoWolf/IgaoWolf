@@ -153,13 +153,9 @@ Recrutamento potencializado por IA — triagem, matching e seleção automatizad
 ![GitHub Stats](./profile/stats.svg)
 ![Top Langs](./profile/top-langs.svg)
 
-_SVGs em `profile/`; o workflow [github-readme-cards](.github/workflows/github-readme-cards.yml) gera tudo. Configure o secret `STATS_PAT` (classic: `repo` + `read:user`) para as estatísticas e as linguagens incluírem repositórios fechados._
-
 <br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=IgaoWolf&theme=tokyonight&hide_border=true&locale=pt_BR&background=1a1b27)
-
-_Para o streak com atividade em repos privados, ligue [Contribuições privadas](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile) no perfil (menu acima do gráfico de contribuições)._
 
 </div>
 
@@ -170,8 +166,6 @@ _Para o streak com atividade em repos privados, ligue [Contribuições privadas]
 <div align="center">
 
 [![Atividade no GitHub](./profile/activity.svg)](https://github.com/IgaoWolf)
-
-_O gráfico é o mesmo [SVG em `profile/activity.svg`](./profile/activity.svg) atualizado no workflow. Para o gráfico de atividade de **repositórios fechados**, crie a variável `ACTIVITY_GRAPH_URL` com a URL do seu [deploy com `TOKEN` (doc oficial)](https://github.com/Ashutosh00710/github-readme-activity-graph#deploy-on-your-own-vercel-instance) — o endpoint Vercel público não acessa repos privados._
 
 </div>
 
