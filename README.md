@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=220&section=header&text=Igor%20Augusto%20Wolf&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CTO%20%40%20iatech.io%20%7C%20Arquiteto%20de%20Infraestrutura%20%26%20Cloud&descSize=18&descAlignY=58&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=220&section=header&text=Igor%20Augusto%20Wolf&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CTO%20%40%20iatech.io%20%7C%20Arquiteto%20de%20Infraestrutura%20e%20Cloud&descSize=18&descAlignY=58&descAlign=50)
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CTO+na+iatech.io+%F0%9F%9A%80;Arquiteto+de+Infraestrutura+%26+Cloud+%E2%98%81%EF%B8%8F;Construindo+produtos+que+transformam+neg%C3%B3cios+%F0%9F%92%A1;Apaixonado+por+automa%C3%A7%C3%A3o+e+DevOps+%E2%9A%99%EF%B8%8F;Movido+pelo+Brio+%E2%80%94+paix%C3%A3o+incans%C3%A1vel+pelo+que+faz+%F0%9F%94%A5&font=Fira+Code&center=true&width=700&height=50&color=70a5fd&vCenter=true&pause=1000&size=19)](https://iatech.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CTO+na+iatech.io+%F0%9F%9A%80;Arquiteto+de+Infraestrutura+e+Cloud+%E2%98%81%EF%B8%8F;Construindo+produtos+que+transformam+neg%C3%B3cios+%F0%9F%92%A1;Apaixonado+por+automa%C3%A7%C3%A3o+e+DevOps+%E2%9A%99%EF%B8%8F;Movido+pelo+Brio+%E2%80%94+paix%C3%A3o+incans%C3%A1vel+pelo+que+faz+%F0%9F%94%A5&font=Fira+Code&center=true&width=700&height=50&color=70a5fd&vCenter=true&pause=1000&size=19)](https://iatech.io)
 
 </div>
 
@@ -150,12 +150,16 @@ Recrutamento potencializado por IA — triagem, matching e seleção automatizad
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgaoWolf&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true&bg_color=1a1b27)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgaoWolf&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=1a1b27&count_private=true)
+![GitHub Stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
+
+_SVGs em `profile/`; o workflow [github-readme-cards](.github/workflows/github-readme-cards.yml) gera tudo. Configure o secret `STATS_PAT` (classic: `repo` + `read:user`) para as estatísticas e as linguagens incluírem repositórios fechados._
 
 <br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=IgaoWolf&theme=tokyonight&hide_border=true&locale=pt_BR&background=1a1b27)
+
+_Para o streak com atividade em repos privados, ligue [Contribuições privadas](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile) no perfil (menu acima do gráfico de contribuições)._
 
 </div>
 
@@ -165,7 +169,9 @@ Recrutamento potencializado por IA — triagem, matching e seleção automatizad
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IgaoWolf&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27)](https://github.com/IgaoWolf)
+[![Atividade no GitHub](./profile/activity.svg)](https://github.com/IgaoWolf)
+
+_O gráfico é o mesmo [SVG em `profile/activity.svg`](./profile/activity.svg) atualizado no workflow. Para o gráfico de atividade de **repositórios fechados**, crie a variável `ACTIVITY_GRAPH_URL` com a URL do seu [deploy com `TOKEN` (doc oficial)](https://github.com/Ashutosh00710/github-readme-activity-graph#deploy-on-your-own-vercel-instance) — o endpoint Vercel público não acessa repos privados._
 
 </div>
 
