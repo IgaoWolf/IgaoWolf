@@ -32,7 +32,7 @@ jobs:
         run: mkdir -p profile
 
       - name: Gerar card de estatísticas
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
           card: stats
           options: >-
@@ -41,7 +41,7 @@ jobs:
           token: ${{ github.token }}
 
       - name: Gerar card de linguagens
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: readme-tools/github-readme-stats-action@v2
         with:
           card: top-langs
           # count_private + PAT: linguagens de todos os repositórios acessíveis; a API não filtra por ano
